@@ -66,4 +66,7 @@ needed. e.g. : [main](main.ipynb)
 4. \\" : Double quote
 5. \\' : Single quote
 
-# [Operators in python](operators.ipynb)
+## [Operators in python](operators.ipynb)
+## [Conditional Statements](conditional.ipynb)
+## [Loops in python](Loops.ipynb)
+## [Strings in Python](strings.ipynb)
