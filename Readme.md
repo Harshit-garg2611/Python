@@ -78,3 +78,6 @@ When a Python module is imported, Python compiles its source code (.py file) int
 ## [Functions in Python](functions.ipynb)
 ## [Modules & pip in Python](modules.ipynb)
 ## [Lists in Python](List.ipynb)
+## [Tuples in Python](Tuples.ipynb)
+
+
