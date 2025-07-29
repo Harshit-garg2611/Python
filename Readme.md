@@ -24,6 +24,9 @@ source myenv/Scripts/activate
 
 # Deactivate the virtual environment
 deactivate
+
+# use the kernel set up
+ipython kernel install /-/-user /-/-name=projectname
 ```
 ## Requirement.txt File : 
 This file consists of packages and their versions that your project depends on. This file can be used to easily install all the required packages in a new environment.
