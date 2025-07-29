@@ -74,6 +74,12 @@ needed. e.g. : [main](main.ipynb)
 When a Python module is imported, Python compiles its source code (.py file) into bytecode. This bytecode is a lower-level, platform-independent representation of the code that can be executed more efficiently by the Python interpreter. Storing this compiled bytecode in \_\_pycache__ avoids the need to recompile the module every time it's imported, leading to faster program execution, especially in larger projects.
 - In working .pyc file 
 
+# Introspection of class : 
+```python 
+print(dir(e))
+# e : object of class 
+```
+
 ## [Operators in python](operators.ipynb)
 ## [Conditional Statements](conditional.ipynb)
 ## [Loops in python](Loops.ipynb)
@@ -84,5 +90,6 @@ When a Python module is imported, Python compiles its source code (.py file) int
 ## [Tuples in Python](Tuples.ipynb)
 ## [Sets in Python](Sets.ipynb)
 ## [Dictionaries in Python](Dictionaries.ipynb)
+## [OOPS in Python](./OOPS)
 
 
