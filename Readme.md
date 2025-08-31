@@ -93,3 +93,8 @@ print(dir(e))
 ## [OOPS in Python](./OOPS)
 
 
+
+
+- # [Numpy](./Numpy/)
+- # [Pandas](./Pandas/)
+- # [Matplotlib](./matplotlib.ipynb)
